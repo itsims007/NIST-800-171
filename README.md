@@ -1,6 +1,8 @@
 <p align="center">
 # NIST-800-171
+  
 System Security Plan
+
 In this project We're going to take a look at
 requirements a family 3.13 system and communications protection. We'll build some of our body
 of evidence for that family. We'll look at a policy, we'll build the system security plan for
